@@ -1,1 +1,1 @@
- new text
+A new directory has been created: /home/azureuser/panorama/builds/buildoutput/test1
